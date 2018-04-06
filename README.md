@@ -19,6 +19,6 @@
   
   dependencies {
   
-	         compile 'com.github.wangqiSoft:AndroidSmartImageSlider:v1.0.1'
+	         compile 'com.github.wangqiSoft:AndroidSmartImageSlider:v1.0.2'
 		
 	}
