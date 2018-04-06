@@ -18,7 +18,7 @@
         android:text="fd;ksajfkldsjf"/>
 
 
-    <com.strongmanb.smartimageslider.SliderLayout
+    <com.wangqiSoft.smartimageslider.SliderLayout
         android:id="@+id/slider"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
