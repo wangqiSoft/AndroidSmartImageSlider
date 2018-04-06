@@ -1,8 +1,5 @@
 apply plugin: 'com.android.library'
 
-apply from: 'bintray-release.gradle'
-
-
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
